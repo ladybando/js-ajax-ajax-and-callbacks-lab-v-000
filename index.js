@@ -2,7 +2,7 @@ $(document).ready(function (){
 });
  $('#link').click(function(){
     searchRepositories();
-  })
+  });
 });
 
 function searchRepositories() {
