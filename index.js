@@ -1,9 +1,6 @@
 $(document).ready(function (){
 });
- $('#link').click(function(){
-    searchRepositories();
-  });
-});
+ 
 
 function searchRepositories() {
   let searchTerms = document.getElementById("searchTerms").value
